@@ -34,7 +34,7 @@ Minha equipe participou do torneio passando pelas classificatórias e passou par
 
 - JULIO CESAR DOS SANTOS BORGES
 - LAIS GOMES OLIVEIRA
-- LUIZA NASCIMENTO GARCIA
+- [LUIZA NASCIMENTO GARCIA](https://www.github.com/octokatherine)
 - MATHEUS BEZERRA GALVÃO
 - PEDRO HENRIQUE PEREIRA CARVALHO
 - PEDRO HENRIQUE PEREIRA DA SILVA
