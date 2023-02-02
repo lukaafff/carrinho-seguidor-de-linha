@@ -33,7 +33,7 @@ Minha equipe participou do torneio passando pelas classificatórias e passou par
 # Autores
 
 - [JULIO CESAR DOS SANTOS BORGES](https://github.com/Kianky)
-- LAIS GOMES OLIVEIRA
+- [LAIS GOMES OLIVEIRA](https://github.com/skafegms)
 - [LUIZA NASCIMENTO GARCIA](https://github.com/lukaafff)
 - MATHEUS BEZERRA GALVÃO
 - PEDRO HENRIQUE PEREIRA CARVALHO
