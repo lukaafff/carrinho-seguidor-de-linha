@@ -36,5 +36,5 @@ Minha equipe participou do torneio passando pelas classificatórias e passou par
 - [LAIS GOMES OLIVEIRA](https://github.com/skafegms)
 - [LUIZA NASCIMENTO GARCIA](https://github.com/lukaafff)
 - MATHEUS BEZERRA GALVÃO
-- PEDRO HENRIQUE PEREIRA CARVALHO
-- PEDRO HENRIQUE PEREIRA DA SILVA
+- [PEDRO HENRIQUE PEREIRA CARVALHO](https://github.com/PedroHPCarvalho)
+- [PEDRO HENRIQUE PEREIRA DA SILVA](https://github.com/pedrobug)
